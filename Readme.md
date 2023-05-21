@@ -11,3 +11,8 @@ then write jupyter notebook to run the notebook.
 to run this on google colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzuphoria/enf1170_gr8/blob/main/tbb_project.ipynb)
+
+
+
+used dataset:
+https://www.kaggle.com/datasets/nikdavis/steam-store-games
